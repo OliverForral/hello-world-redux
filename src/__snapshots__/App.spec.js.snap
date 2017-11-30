@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section>
+  <h1>
+    Hello, world!
+  </h1>
+  <p>
+    What is your name?
+  </p>
+  <input />
+  <button>
+    Submit
+  </button>
+  <div />
+</section>
+`;
